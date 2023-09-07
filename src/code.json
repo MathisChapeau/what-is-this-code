@@ -1,0 +1,14 @@
+[
+    {
+        "Reponse": "HTML",
+        "Code": "<h1>Hello, world!</h1>"
+    },
+    {
+        "Reponse": "JS",
+        "Code": "(() => { console.log('Hello, world!'); })()"
+    },
+    {
+        "Reponse": "Kotlin",
+        "Code": "println(\"Hello, world!\")"
+    }
+]
